@@ -1,0 +1,15 @@
+cloudevents
+# development
+types-requests
+types-pyyaml
+pytest
+pytest-mock
+assertpy
+setuptools
+wheel
+twine
+flake8
+mypy
+coverage
+safety
+bandit
